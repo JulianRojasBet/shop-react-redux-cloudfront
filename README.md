@@ -1,3 +1,17 @@
+## Julian Rojas
+
+### Task 2
+
+Manual deploy:
+- [S3](https://snorku-store-manual.s3.amazonaws.com/index.html)
+- [Cloudfront](https://d1en8thtuhfgsk.cloudfront.net)
+
+Automatic deploy:
+- [S3](https://snorku-store.s3.amazonaws.com)
+- [Cloudfront](https://d19bm5j4q5aybe.cloudfront.net)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
